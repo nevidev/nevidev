@@ -1,7 +1,7 @@
 ## olá, pode me chamar de nevi! 👋
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevidev&theme=transparent)](https://github.com/nevidev/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevidev&theme=transparent)](https://github.com/nevidev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevidev&theme=transparent&layout=compact)](https://github.com/nevidev/github-readme-stats)
 
 - No momento estou aberto para aprender qualquer linguagem por meio de estágio ou trabalho, contudo tenho um certo conhecimento pessoal em HTML, CSS, JavaScript, SQL e Python
 - Atualmente estudo Análise e Desenvolvimento de Sistemas
