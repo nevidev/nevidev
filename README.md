@@ -3,7 +3,7 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevidev&theme=transparent)](https://github.com/nevidev/github-readme-stats) --> 
 [![Top Langs](https://github-readme-stats-nevidev.vercel.app/api/top-langs/?username=nevidev&theme=transparent&layout=compact)](https://github.com/nevidev/github-readme-stats)
 
-- Estou aberto para aprender qualquer tecnologia por meio de estágio ou trabalho e carrego comigo um certo conhecimento em HTML, CSS, JavaScript, Python, Java e SQL.
+- Estou em aberto para aprender qualquer tecnologia por meio de estágio ou trabalho e carrego comigo um certo conhecimento em HTML, CSS, JavaScript, Python, Java e SQL.
 - Atualmente estudo Análise e Desenvolvimento de Sistemas
 - Fora do ambiente acadêmico, meu conhecimento está sendo alimentado com base em estudos pessoais sobre as linguagens de programação na internet (ja fiz um bot para o discord em python por pura curiosidade) e também já fiz dois cursos para programação sendo o primeiro um bootcamp para iniciantes e o segundo o CS50 de Harvard
 
