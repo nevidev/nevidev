@@ -5,7 +5,7 @@
 
 - Estou em aberto para aprender qualquer tecnologia por meio de estágio ou trabalho e carrego comigo um certo conhecimento em HTML, CSS, JavaScript, Python, Java e SQL.
 - Atualmente estudo Análise e Desenvolvimento de Sistemas
-- Fora do ambiente acadêmico, meu conhecimento está sendo alimentado com base em estudos pessoais sobre as linguagens de programação na internet (ja fiz um bot para o discord em python por pura curiosidade) e também já fiz dois cursos para programação sendo o primeiro um bootcamp para iniciantes e o segundo o CS50 de Harvard
+- Fora do ambiente acadêmico, meu conhecimento está sendo alimentado com base em estudos pessoais sobre as linguagens de programação na internet (ja fiz um bot para o discord em python por pura curiosidade e depois em Javascript) e também já fiz dois cursos para programação sendo o primeiro um bootcamp para iniciantes e o segundo o CS50 de Harvard
 
 <div> 
  <!-- <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
