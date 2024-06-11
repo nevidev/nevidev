@@ -2,7 +2,7 @@
 ## olá, pode me chamar de nevi! 👋
 - Trabalho na Algar Telecom na área de desenvolvimento
 - Atualmente estudo Análise e Desenvolvimento de Sistemas
-- Tenho interesse em um pouquinho de cada área como front, back end e mobile mas possuo uma inclinação maior para o lado de Data Science e tenho muita curiosidade de aprender mais sobre a área de Inteligência Artificial
+- Tenho interesse em um pouquinho de cada área como front, back end e mobile mas possuo uma inclinação maior para o lado de Data Science e tenho muita curiosidade de aprender mais sobre Inteligência Artificial
  
 <div>
 <a href="https://github.com/nevidev">
