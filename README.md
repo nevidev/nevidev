@@ -2,7 +2,7 @@
 ## olá, pode me chamar de nevi! 👋
 - No momento trabalho na Algar Telecom como estagiário em TI
 - Atualmente estudo Análise e Desenvolvimento de Sistemas
-- Tenho interesse tanto pela área de desenvolvimento de software (front e back end), dados (principalmente IA), e testes (QA) e muita vontade de aprender
+- Tenho interesse tanto pela área de desenvolvimento de software (front e back end), dados (principalmente IA), e testes (QA)
  
 <div>
 <a href="https://github.com/nevidev">
