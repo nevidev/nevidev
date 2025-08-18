@@ -1,6 +1,6 @@
 
 ## olá, pode me chamar de nevi! 👋
-- No momento trabalho na Algar Telecom como estagiário em TI
+- Atuo como Analista de Dados na Algar.
 - Atualmente estudo Análise e Desenvolvimento de Sistemas
 - Tenho bastante interesse pela área de dados e estatística, logo, análise de dados e ciência de dados são meus assuntos favoritos
  
