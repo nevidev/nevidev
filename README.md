@@ -1,6 +1,6 @@
 
 ## olá, pode me chamar de nevi! 👋
-- Atuo como Analista de Dados na Algar
+- Atuo como Analista de Dados
 - Atualmente estudo Análise e Desenvolvimento de Sistemas
 - Tenho bastante interesse pela área de dados e estatística, logo, análise de dados e ciência de dados são meus assuntos favoritos
  
